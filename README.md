@@ -17,6 +17,10 @@ I would continue adding papers to this roadmap.
 
 
 ---------------------------------------
+# 0 Core Papers
+## 0.1 Attention
+**[0]** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin "Attention is all you need" (2017) [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) **(Milestone: Attention is all you need (birth of the transformer))** :star::star::star::star::star:
+
 
 # 1 Deep Learning History and Basics
 
