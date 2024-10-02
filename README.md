@@ -22,7 +22,10 @@ I would continue adding papers to this roadmap.
 
 **[0]** Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio "Neural Machine Translation by Jointly Learning to Align and Translate" (2014) [[pdf]]
 (https://arxiv.org/abs/1409.0473) **(Introduces approach to machine translation using single neural network)** :star::star::star::star:
-**[1]** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin "Attention is all you need" (2017) [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) **(Milestone: Attention is all you need (birth of the transformer))** :star::star::star::star::star:
+
+**[1]** Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin "Attention is all you need" (2017) [[pdf]
+(https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) **(Milestone: Attention is all you need (birth of the transformer))** :star::star::star::star::star:
+
 **[2]** Devlin, Chang, Lee, and Toutanova "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding" (2018) [[pdf]] (https://arxiv.org/abs/1810.04805) **(intro to decoder-style architecture for generative modelling tasks such as translation, summarization and other forms of text creation) :star::star::star::star::star:
 
 
